@@ -9,7 +9,7 @@
         placeholder="请输入内容"
         v-model="textarea"
       ></el-input>
-      <!-- 图片 -->
+      <!--图片 -->
       <el-upload
         action
         :file-list="filelist"
